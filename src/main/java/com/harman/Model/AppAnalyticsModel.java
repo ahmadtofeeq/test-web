@@ -1,7 +1,7 @@
 package com.harman.Model;
 
 public class AppAnalyticsModel {
-
+//Test Merge
 	int SpeakerMode_Stereo=0, SpeakerMode_Party=0, SpeakerMode_Single=0, AppSettings_AppToneToggle_On=0,
 			AppSettings_AppToneToggle_Off=0, AppSettings_AppMFBMode_VoiceAssist=0, AppSettings_AppMFBMode_PlayPause=0,
 			AppSettings_AppHFPToggle_On=0, AppSettings_AppHFPToggle_Off=0, AppSettings_AppEQMode_Indoor=0,
@@ -11,7 +11,7 @@ public class AppAnalyticsModel {
 	public int getSpeakerMode_Stereo() {
 		return SpeakerMode_Stereo;
 	}
-
+//Ankush
 	public void setSpeakerMode_Stereo(int speakerMode_Stereo) {
 		SpeakerMode_Stereo = speakerMode_Stereo;
 	}
